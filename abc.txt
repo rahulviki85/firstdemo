@@ -1,7 +1,5 @@
-WELCOME TO DEVOPS
 
-Welcome to Capgemini...
-Welcome to DEV Branch ......
+
 
 class A{
 
